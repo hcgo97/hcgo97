@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h2>🪄 My STACKS..</h2></div>
+<div align=center><h3>Stacks 🪄</h3></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/JAVA-F96F29?style=flat-square&logo=coffeescript&logoColor=white"/>
